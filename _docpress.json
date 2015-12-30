@@ -8,9 +8,9 @@
         "slug": "index",
         "headings": [
           {
-            "title": "Introduction",
+            "title": "引言",
             "depth": 2,
-            "id": "introduction"
+            "id": ""
           }
         ]
       },
@@ -234,9 +234,9 @@
       "slug": "index",
       "headings": [
         {
-          "title": "Introduction",
+          "title": "引言",
           "depth": 2,
-          "id": "introduction"
+          "id": ""
         }
       ]
     },
