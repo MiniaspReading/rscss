@@ -55,7 +55,7 @@ Authored and maintained by Rico Sta. Cruz with help from contributors ([list][co
 
 ----
 翻譯: Jeff Wu (CrazyALu) <br>
-有任何建議歡迎提出或PR，感謝! <br>
+有任何建議歡迎提出，感謝! <br>
 
 <!-- {blockquote: style='display:none'} -->
 
