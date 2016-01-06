@@ -24,9 +24,9 @@
             "slug": "components",
             "headings": [
               {
-                "title": "Naming components",
+                "title": "Naming components 元件命名",
                 "depth": 2,
-                "id": "naming-components"
+                "id": "naming-components-yuan"
               }
             ]
           },
@@ -246,9 +246,9 @@
       "slug": "components",
       "headings": [
         {
-          "title": "Naming components",
+          "title": "Naming components 元件命名",
           "depth": 2,
-          "id": "naming-components"
+          "id": "naming-components-yuan"
         }
       ]
     },
