@@ -1,6 +1,7 @@
-# Elements
+# Elements 元素
 
-Elements are things inside your component.
+Elements are things inside your component. <br>
+元素是在你的元件裡面的物件
 
 ![](images/component-elements.png)
 
