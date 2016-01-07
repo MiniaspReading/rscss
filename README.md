@@ -21,17 +21,14 @@ Introduction
 引言
 ------------
 
-Any CSS greater than 1000 lines will get unwieldy. You'll eventually run into these common pitfalls:
+Any CSS greater than 1000 lines will get unwieldy. You'll eventually run into these common pitfalls:<br>
 任何大於 1000 行的 CSS 會變得笨重。您一定會遇到下列這些常見的問題。
 
-* "What does this class mean?"
-* "這個 class 有什麼意思?"
+* "What does this class mean?(這個 class 有什麼意思?)"
 
-* "Is this class still being used?"
-* "這個 class 是否會被持續的使用到?"
+* "Is this class still being used?(這個 class 是否會被持續的使用到?)"
 
-* "If I make a new class `green`, will there be a clash?"
-* "如果我建立一個新的 class 'green', 是否會有衝突?"
+* "If I make a new class `green`, will there be a clash?(如果我建立一個新的 class 'green', 是否會有衝突?)"
 
 **rscss** is an attempt to make sense of all these. It is not a framework. It's simply a set of ideas to guide your process of building maintainable CSS for any modern website or application. <br>
 **rscss** 試圖釐清這些問題。 它不是一個框架。他是一些簡單的想法來引導你，使現代化的網站或應用建立可維護的CSS。
