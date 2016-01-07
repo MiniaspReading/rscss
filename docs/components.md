@@ -1,8 +1,8 @@
-Components
+Components 元件
 ==========
 
 Think in components. Consider each piece of your UI as an individual "component". <br>
-考慮元件。把UI上的每個部份看作是獨立的“元件”
+以元件的角度來思考。把 UI 上的每個區塊當作是獨立的“元件”
 
 ![](images/component-example.png)
 
