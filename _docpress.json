@@ -15,10 +15,10 @@
         ]
       },
       {
-        "title": "Components",
+        "title": "Components 元件",
         "sections": [
           {
-            "title": "About components",
+            "title": "About components 關於元件",
             "source": "docs/components.md",
             "url": "components.html",
             "slug": "components",
@@ -31,7 +31,7 @@
             ]
           },
           {
-            "title": "Elements",
+            "title": "Elements 元素",
             "source": "docs/elements.md",
             "url": "elements.html",
             "slug": "elements",
@@ -59,7 +59,7 @@
             ]
           },
           {
-            "title": "Variants",
+            "title": "Variants 變數",
             "source": "docs/variants.md",
             "url": "variants.html",
             "slug": "variants",
@@ -82,7 +82,7 @@
             ]
           },
           {
-            "title": "Nested components",
+            "title": "Nested components 嵌套式元件",
             "source": "docs/nested-components.md",
             "url": "nested-components.html",
             "slug": "nested-components",
@@ -100,7 +100,7 @@
             ]
           },
           {
-            "title": "Layouts",
+            "title": "Layouts 佈局",
             "source": "docs/layouts.md",
             "url": "layouts.html",
             "slug": "layouts",
@@ -123,7 +123,7 @@
             ]
           },
           {
-            "title": "Helpers",
+            "title": "Helpers 幫手",
             "source": "docs/helpers.md",
             "url": "helpers.html",
             "slug": "helpers",
@@ -143,10 +143,10 @@
         ]
       },
       {
-        "title": "Structure",
+        "title": "Structure 架構",
         "sections": [
           {
-            "title": "CSS Structure",
+            "title": "CSS Structure CSS 架構",
             "source": "docs/css-structure.md",
             "url": "css-structure.html",
             "slug": "css-structure",
@@ -171,10 +171,10 @@
         ]
       },
       {
-        "title": "Notes",
+        "title": "Notes 備註",
         "sections": [
           {
-            "title": "Pitfalls",
+            "title": "Pitfalls 陷阱",
             "source": "docs/pitfalls.md",
             "url": "pitfalls.html",
             "slug": "pitfalls",
@@ -187,13 +187,13 @@
             ]
           },
           {
-            "title": "Apprehensions",
+            "title": "Apprehensions 顧慮",
             "source": "docs/apprehensions.md",
             "url": "apprehensions.html",
             "slug": "apprehensions"
           },
           {
-            "title": "Other resources",
+            "title": "Other resources 其他資源",
             "source": "docs/other-resources.md",
             "url": "other-resources.html",
             "slug": "other-resources",
@@ -220,7 +220,7 @@
         ]
       },
       {
-        "title": "Summary",
+        "title": "Summary 總結",
         "source": "docs/summary.md",
         "url": "summary.html",
         "slug": "summary"
@@ -242,7 +242,7 @@
     },
     "components.html": {
       "source": "docs/components.md",
-      "title": "About components",
+      "title": "About components 關於元件",
       "slug": "components",
       "headings": [
         {
@@ -254,7 +254,7 @@
     },
     "elements.html": {
       "source": "docs/elements.md",
-      "title": "Elements",
+      "title": "Elements 元素",
       "slug": "elements",
       "headings": [
         {
@@ -281,7 +281,7 @@
     },
     "variants.html": {
       "source": "docs/variants.md",
-      "title": "Variants",
+      "title": "Variants 變數",
       "slug": "variants",
       "headings": [
         {
@@ -303,7 +303,7 @@
     },
     "nested-components.html": {
       "source": "docs/nested-components.md",
-      "title": "Nested components",
+      "title": "Nested components 嵌套式元件",
       "slug": "nested-components",
       "headings": [
         {
@@ -320,7 +320,7 @@
     },
     "layouts.html": {
       "source": "docs/layouts.md",
-      "title": "Layouts",
+      "title": "Layouts 佈局",
       "slug": "layouts",
       "headings": [
         {
@@ -342,7 +342,7 @@
     },
     "helpers.html": {
       "source": "docs/helpers.md",
-      "title": "Helpers",
+      "title": "Helpers 幫手",
       "slug": "helpers",
       "headings": [
         {
@@ -359,7 +359,7 @@
     },
     "css-structure.html": {
       "source": "docs/css-structure.md",
-      "title": "CSS Structure",
+      "title": "CSS Structure CSS 架構",
       "slug": "css-structure",
       "headings": [
         {
@@ -381,7 +381,7 @@
     },
     "pitfalls.html": {
       "source": "docs/pitfalls.md",
-      "title": "Pitfalls",
+      "title": "Pitfalls 陷阱",
       "slug": "pitfalls",
       "headings": [
         {
@@ -393,12 +393,12 @@
     },
     "apprehensions.html": {
       "source": "docs/apprehensions.md",
-      "title": "Apprehensions",
+      "title": "Apprehensions 顧慮",
       "slug": "apprehensions"
     },
     "other-resources.html": {
       "source": "docs/other-resources.md",
-      "title": "Other resources",
+      "title": "Other resources 其他資源",
       "slug": "other-resources",
       "headings": [
         {
@@ -422,7 +422,7 @@
     },
     "summary.html": {
       "source": "docs/summary.md",
-      "title": "Summary",
+      "title": "Summary 總結",
       "slug": "summary"
     }
   },
