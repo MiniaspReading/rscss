@@ -37,24 +37,24 @@
             "slug": "elements",
             "headings": [
               {
-                "title": "Naming elements",
+                "title": "Naming elements 元素的命名",
                 "depth": 2,
-                "id": "naming-elements"
+                "id": "naming-elements-yuan"
               },
               {
-                "title": "Element selectors",
+                "title": "Element selectors 元素選擇器",
                 "depth": 2,
-                "id": "element-selectors"
+                "id": "element-selectors-yuan"
               },
               {
-                "title": "On multiple words",
+                "title": "On multiple words 在多個單字上",
                 "depth": 2,
                 "id": "on-multiple-words"
               },
               {
-                "title": "Avoid tag selectors",
+                "title": "Avoid tag selectors 避開標籤 (tag) 選擇器",
                 "depth": 2,
-                "id": "avoid-tag-selectors"
+                "id": "avoid-tag-selectors-(tag)"
               }
             ]
           },
@@ -258,24 +258,24 @@
       "slug": "elements",
       "headings": [
         {
-          "title": "Naming elements",
+          "title": "Naming elements 元素的命名",
           "depth": 2,
-          "id": "naming-elements"
+          "id": "naming-elements-yuan"
         },
         {
-          "title": "Element selectors",
+          "title": "Element selectors 元素選擇器",
           "depth": 2,
-          "id": "element-selectors"
+          "id": "element-selectors-yuan"
         },
         {
-          "title": "On multiple words",
+          "title": "On multiple words 在多個單字上",
           "depth": 2,
           "id": "on-multiple-words"
         },
         {
-          "title": "Avoid tag selectors",
+          "title": "Avoid tag selectors 避開標籤 (tag) 選擇器",
           "depth": 2,
-          "id": "avoid-tag-selectors"
+          "id": "avoid-tag-selectors-(tag)"
         }
       ]
     },
