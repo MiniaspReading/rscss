@@ -1,5 +1,5 @@
 {
-  "github": "rstacruz/rscss",
+  "github": "jeffwu85182/rscss",
   "css": [
     "http://ricostacruz.com/docpress-rsc/style.css"
   ],
@@ -7,9 +7,5 @@
     "plugins": {
       "decorate": {}
     }
-  },
-  "googleAnalytics": {
-    "id": "UA-70062028-1",
-    "domain": "rscss.io"
   }
 }
