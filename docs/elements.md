@@ -49,7 +49,7 @@ Use classnames whenever possible. Tag selectors are fine, but they may come at a
 }
 ```
 
-Not all elements should always look the same. Variants can help.
+Not all elements should always look the same. Variants can help. <br>
 並非所有元素總是看起來要是一樣的。變數可以提供幫助。
 [Continue 繼續 →](variants.md)
 <!-- {p:.pull-box} -->
