@@ -65,17 +65,17 @@
             "slug": "variants",
             "headings": [
               {
-                "title": "Naming variants",
+                "title": "Naming variants變數的命名",
                 "depth": 2,
                 "id": "naming-variants"
               },
               {
-                "title": "Element variants",
+                "title": "Element variants元素變數",
                 "depth": 2,
-                "id": "element-variants"
+                "id": "element-variantsyuan"
               },
               {
-                "title": "Dash prefixes",
+                "title": "Dash prefixes 減號前綴詞",
                 "depth": 2,
                 "id": "dash-prefixes"
               }
@@ -285,17 +285,17 @@
       "slug": "variants",
       "headings": [
         {
-          "title": "Naming variants",
+          "title": "Naming variants變數的命名",
           "depth": 2,
           "id": "naming-variants"
         },
         {
-          "title": "Element variants",
+          "title": "Element variants元素變數",
           "depth": 2,
-          "id": "element-variants"
+          "id": "element-variantsyuan"
         },
         {
-          "title": "Dash prefixes",
+          "title": "Dash prefixes 減號前綴詞",
           "depth": 2,
           "id": "dash-prefixes"
         }
