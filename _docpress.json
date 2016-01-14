@@ -129,14 +129,14 @@
             "slug": "helpers",
             "headings": [
               {
-                "title": "Naming helpers",
+                "title": "Helpers 的命名",
                 "depth": 2,
-                "id": "naming-helpers"
+                "id": "helpers"
               },
               {
-                "title": "Organizing helpers",
+                "title": "整理 helpers",
                 "depth": 2,
-                "id": "organizing-helpers"
+                "id": "helpers"
               }
             ]
           }
@@ -152,17 +152,17 @@
             "slug": "css-structure",
             "headings": [
               {
-                "title": "One component per file",
+                "title": "One component per file 一個元件一個檔案",
                 "depth": 2,
-                "id": "one-component-per-file"
+                "id": "one-component-per-file-yuan"
               },
               {
-                "title": "Use glob matching",
+                "title": "Use glob matching 使用全域配對",
                 "depth": 2,
                 "id": "use-glob-matching"
               },
               {
-                "title": "Avoid over-nesting",
+                "title": "Avoid over-nesting 避免過度的巢狀架構",
                 "depth": 2,
                 "id": "avoid-over-nesting"
               }
@@ -346,14 +346,14 @@
       "slug": "helpers",
       "headings": [
         {
-          "title": "Naming helpers",
+          "title": "Helpers 的命名",
           "depth": 2,
-          "id": "naming-helpers"
+          "id": "helpers"
         },
         {
-          "title": "Organizing helpers",
+          "title": "整理 helpers",
           "depth": 2,
-          "id": "organizing-helpers"
+          "id": "helpers"
         }
       ]
     },
@@ -363,17 +363,17 @@
       "slug": "css-structure",
       "headings": [
         {
-          "title": "One component per file",
+          "title": "One component per file 一個元件一個檔案",
           "depth": 2,
-          "id": "one-component-per-file"
+          "id": "one-component-per-file-yuan"
         },
         {
-          "title": "Use glob matching",
+          "title": "Use glob matching 使用全域配對",
           "depth": 2,
           "id": "use-glob-matching"
         },
         {
-          "title": "Avoid over-nesting",
+          "title": "Avoid over-nesting 避免過度的巢狀架構",
           "depth": 2,
           "id": "avoid-over-nesting"
         }

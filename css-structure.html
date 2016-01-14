@@ -17,9 +17,10 @@
               <!-- span.title Open in GitHub--><span class="icon -github"></span></a>
           </div>
         </div>
-        <div class="markdown-body"><h1 id="css-structure">CSS structure</h1>
-<h2 id="one-component-per-file">One component per file</h2>
-<p>For each component, place them in their own file.</p>
+        <div class="markdown-body"><h1 id="css-structure-css">CSS structure CSS &#x67B6;&#x69CB;</h1>
+<h2 id="one-component-per-file-yuan">One component per file &#x4E00;&#x500B;&#x5143;&#x4EF6;&#x4E00;&#x500B;&#x6A94;&#x6848;</h2>
+<p>For each component, place them in their own file.
+&#x5C0D;&#x6BCF;&#x500B;&#x5143;&#x4EF6;&#xFF0C;&#x8ACB;&#x5C07;&#x5B83;&#x5011;&#x653E;&#x5728;&#x5C6C;&#x65BC;&#x81EA;&#x5DF1;&#x7684;&#x6A94;&#x6848;&#x4E2D;&#x3002;</p>
 <pre><code class="lang-scss"><span class="pl-c">/* css/components/search-form.scss */</span>
 <span class="hljs-class">.search-form</span> {
   &gt; <span class="hljs-class">.button</span> { <span class="pl-c">/* ... */</span> }
@@ -31,13 +32,15 @@
   &amp;<span class="hljs-class">.-wide</span> { <span class="pl-c">/* ... */</span> }
 }
 </code></pre>
-<h2 id="use-glob-matching">Use glob matching</h2>
-<p>In sass-rails and stylus, this makes including all of them easy:</p>
+<h2 id="use-glob-matching">Use glob matching &#x4F7F;&#x7528;&#x5168;&#x57DF;&#x914D;&#x5C0D;</h2>
+<p>In sass-rails and stylus, this makes including all of them easy:<br>
+&#x5728; sass-rails &#x53CA; stylus &#x4E2D;&#xFF0C;&#x8981;&#x5C07;&#x6240;&#x6709;&#x5143;&#x4EF6;&#x5F15;&#x5165;&#x662F;&#x5F88;&#x5BB9;&#x6613;&#x7684;&#x3002;</p>
 <pre><code class="lang-scss"><span class="hljs-at_rule">@<span class="pl-k">import</span> <span class="pl-s">&apos;components/*&apos;</span>;</span>
 </code></pre>
-<h2 id="avoid-over-nesting">Avoid over-nesting</h2>
-<p>Use no more than 1 level of nesting. It&apos;s easy to get lost with too much nesting.</p>
-<pre><code class="lang-scss"><span class="pl-c">/* &#x2717; Avoid: 3 levels of nesting */</span>
+<h2 id="avoid-over-nesting">Avoid over-nesting &#x907F;&#x514D;&#x904E;&#x5EA6;&#x7684;&#x5DE2;&#x72C0;&#x67B6;&#x69CB;</h2>
+<p>Use no more than 1 level of nesting. It&apos;s easy to get lost with too much nesting.
+&#x4E0D;&#x8981;&#x4F7F;&#x7528;&#x8D85;&#x904E;&#x4E00;&#x5C64;&#x7684;&#x5DE2;&#x72C0;&#x67B6;&#x69CB;&#x3002;&#x904E;&#x5EA6;&#x7684;&#x5DE2;&#x72C0;&#x7D50;&#x69CB;&#x5BB9;&#x6613;&#x4F7F;&#x4F60;&#x8FF7;&#x5931;&#x3002;</p>
+<pre><code class="lang-scss"><span class="pl-c">/* &#x2717; &#x8981;&#x907F;&#x514D;&#x4F7F;&#x7528;: &#x5169;&#x5C64;&#x7684;&#x5DE2;&#x72C0;&#x67B6;&#x69CB; */</span>
 <span class="hljs-class">.image-frame</span> {
   &gt; <span class="hljs-class">.description</span> {
     <span class="pl-c">/* ... */</span>
@@ -48,7 +51,7 @@
   }
 }
 
-<span class="pl-c">/* &#x2713; Better: 2 levels */</span>
+<span class="pl-c">/* &#x2713; &#x8F03;&#x597D;&#x7684;&#x65B9;&#x5F0F;: &#x5169;&#x5C64;&#x525B;&#x525B;&#x597D; */</span>
 <span class="hljs-class">.image-frame</span> {
   &gt; <span class="hljs-class">.description</span> { <span class="pl-c">/* ... */</span> }
   &gt; <span class="hljs-class">.description</span> &gt; <span class="hljs-class">.icon</span> { <span class="pl-c">/* ... */</span> }
@@ -86,11 +89,11 @@
               <ul class="submenu">
                 <li class="menu-item -level-2"><a href="css-structure.html" class="link title -active link-css-structure">CSS Structure CSS 架構</a>
                   <ul class="headings heading-list">
-                    <li class="heading-item -depth-2"><a href="#one-component-per-file" class="hlink link-one-component-per-file">One component per file</a>
+                    <li class="heading-item -depth-2"><a href="#one-component-per-file-yuan" class="hlink link-one-component-per-file-yuan">One component per file 一個元件一個檔案</a>
                     </li>
-                    <li class="heading-item -depth-2"><a href="#use-glob-matching" class="hlink link-use-glob-matching">Use glob matching</a>
+                    <li class="heading-item -depth-2"><a href="#use-glob-matching" class="hlink link-use-glob-matching">Use glob matching 使用全域配對</a>
                     </li>
-                    <li class="heading-item -depth-2"><a href="#avoid-over-nesting" class="hlink link-avoid-over-nesting">Avoid over-nesting</a>
+                    <li class="heading-item -depth-2"><a href="#avoid-over-nesting" class="hlink link-avoid-over-nesting">Avoid over-nesting 避免過度的巢狀架構</a>
                     </li>
                   </ul>
                 </li>
