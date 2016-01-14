@@ -18,7 +18,7 @@
         "title": "Components 元件",
         "sections": [
           {
-            "title": "About components 關於元件",
+            "title": "About components",
             "source": "docs/components.md",
             "url": "components.html",
             "slug": "components",
@@ -31,7 +31,7 @@
             ]
           },
           {
-            "title": "Elements 元素",
+            "title": "Elements",
             "source": "docs/elements.md",
             "url": "elements.html",
             "slug": "elements",
@@ -59,30 +59,30 @@
             ]
           },
           {
-            "title": "Variants 變數",
+            "title": "Variants",
             "source": "docs/variants.md",
             "url": "variants.html",
             "slug": "variants",
             "headings": [
               {
-                "title": "Naming variants變數的命名",
+                "title": "Naming variants （變種的命名）",
                 "depth": 2,
                 "id": "naming-variants"
               },
               {
-                "title": "Element variants元素變數",
+                "title": "Element variants 元素變種",
                 "depth": 2,
-                "id": "element-variantsyuan"
+                "id": "element-variants-yuan"
               },
               {
-                "title": "Dash prefixes 減號前綴詞",
+                "title": "Dash prefixes 分號做為前綴",
                 "depth": 2,
                 "id": "dash-prefixes"
               }
             ]
           },
           {
-            "title": "Nested components 嵌套式元件",
+            "title": "Nested components",
             "source": "docs/nested-components.md",
             "url": "nested-components.html",
             "slug": "nested-components",
@@ -100,7 +100,7 @@
             ]
           },
           {
-            "title": "Layouts 佈局",
+            "title": "Layouts",
             "source": "docs/layouts.md",
             "url": "layouts.html",
             "slug": "layouts",
@@ -123,7 +123,7 @@
             ]
           },
           {
-            "title": "Helpers 幫手",
+            "title": "Helpers",
             "source": "docs/helpers.md",
             "url": "helpers.html",
             "slug": "helpers",
@@ -146,7 +146,7 @@
         "title": "Structure 架構",
         "sections": [
           {
-            "title": "CSS Structure CSS 架構",
+            "title": "CSS Structure",
             "source": "docs/css-structure.md",
             "url": "css-structure.html",
             "slug": "css-structure",
@@ -174,7 +174,7 @@
         "title": "Notes 備註",
         "sections": [
           {
-            "title": "Pitfalls 陷阱",
+            "title": "Pitfalls",
             "source": "docs/pitfalls.md",
             "url": "pitfalls.html",
             "slug": "pitfalls",
@@ -187,13 +187,13 @@
             ]
           },
           {
-            "title": "Apprehensions 顧慮",
+            "title": "Apprehensions",
             "source": "docs/apprehensions.md",
             "url": "apprehensions.html",
             "slug": "apprehensions"
           },
           {
-            "title": "Other resources 其他資源",
+            "title": "Other resources",
             "source": "docs/other-resources.md",
             "url": "other-resources.html",
             "slug": "other-resources",
@@ -220,7 +220,7 @@
         ]
       },
       {
-        "title": "Summary 總結",
+        "title": "Summary",
         "source": "docs/summary.md",
         "url": "summary.html",
         "slug": "summary"
@@ -242,7 +242,7 @@
     },
     "components.html": {
       "source": "docs/components.md",
-      "title": "About components 關於元件",
+      "title": "About components",
       "slug": "components",
       "headings": [
         {
@@ -254,7 +254,7 @@
     },
     "elements.html": {
       "source": "docs/elements.md",
-      "title": "Elements 元素",
+      "title": "Elements",
       "slug": "elements",
       "headings": [
         {
@@ -281,21 +281,21 @@
     },
     "variants.html": {
       "source": "docs/variants.md",
-      "title": "Variants 變數",
+      "title": "Variants",
       "slug": "variants",
       "headings": [
         {
-          "title": "Naming variants變數的命名",
+          "title": "Naming variants （變種的命名）",
           "depth": 2,
           "id": "naming-variants"
         },
         {
-          "title": "Element variants元素變數",
+          "title": "Element variants 元素變種",
           "depth": 2,
-          "id": "element-variantsyuan"
+          "id": "element-variants-yuan"
         },
         {
-          "title": "Dash prefixes 減號前綴詞",
+          "title": "Dash prefixes 分號做為前綴",
           "depth": 2,
           "id": "dash-prefixes"
         }
@@ -303,7 +303,7 @@
     },
     "nested-components.html": {
       "source": "docs/nested-components.md",
-      "title": "Nested components 嵌套式元件",
+      "title": "Nested components",
       "slug": "nested-components",
       "headings": [
         {
@@ -320,7 +320,7 @@
     },
     "layouts.html": {
       "source": "docs/layouts.md",
-      "title": "Layouts 佈局",
+      "title": "Layouts",
       "slug": "layouts",
       "headings": [
         {
@@ -342,7 +342,7 @@
     },
     "helpers.html": {
       "source": "docs/helpers.md",
-      "title": "Helpers 幫手",
+      "title": "Helpers",
       "slug": "helpers",
       "headings": [
         {
@@ -359,7 +359,7 @@
     },
     "css-structure.html": {
       "source": "docs/css-structure.md",
-      "title": "CSS Structure CSS 架構",
+      "title": "CSS Structure",
       "slug": "css-structure",
       "headings": [
         {
@@ -381,7 +381,7 @@
     },
     "pitfalls.html": {
       "source": "docs/pitfalls.md",
-      "title": "Pitfalls 陷阱",
+      "title": "Pitfalls",
       "slug": "pitfalls",
       "headings": [
         {
@@ -393,12 +393,12 @@
     },
     "apprehensions.html": {
       "source": "docs/apprehensions.md",
-      "title": "Apprehensions 顧慮",
+      "title": "Apprehensions",
       "slug": "apprehensions"
     },
     "other-resources.html": {
       "source": "docs/other-resources.md",
-      "title": "Other resources 其他資源",
+      "title": "Other resources",
       "slug": "other-resources",
       "headings": [
         {
@@ -422,7 +422,7 @@
     },
     "summary.html": {
       "source": "docs/summary.md",
-      "title": "Summary 總結",
+      "title": "Summary",
       "slug": "summary"
     }
   },
