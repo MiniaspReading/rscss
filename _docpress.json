@@ -15,7 +15,7 @@
         ]
       },
       {
-        "title": "Components 元件",
+        "title": "關於元件(Components)",
         "sections": [
           {
             "title": "About components",
@@ -106,17 +106,17 @@
             "slug": "layouts",
             "headings": [
               {
-                "title": "Avoid positioning properties",
+                "title": "Avoid positioning properties 要避開座標屬性",
                 "depth": 2,
                 "id": "avoid-positioning-properties"
               },
               {
-                "title": "Fixed dimensions",
+                "title": "Fixed dimensions 固定尺寸",
                 "depth": 2,
                 "id": "fixed-dimensions"
               },
               {
-                "title": "Define positioning in parents",
+                "title": "Define positioning in parents 在父節點定義位置",
                 "depth": 2,
                 "id": "define-positioning-in-parents"
               }
@@ -143,10 +143,10 @@
         ]
       },
       {
-        "title": "Structure 架構",
+        "title": "關於架構(Structure)",
         "sections": [
           {
-            "title": "CSS Structure",
+            "title": "CSS 架構",
             "source": "docs/css-structure.md",
             "url": "css-structure.html",
             "slug": "css-structure",
@@ -171,7 +171,7 @@
         ]
       },
       {
-        "title": "Notes 備註",
+        "title": "備註(Notes)",
         "sections": [
           {
             "title": "Pitfalls",
@@ -220,7 +220,7 @@
         ]
       },
       {
-        "title": "Summary",
+        "title": "總結",
         "source": "docs/summary.md",
         "url": "summary.html",
         "slug": "summary"
@@ -324,17 +324,17 @@
       "slug": "layouts",
       "headings": [
         {
-          "title": "Avoid positioning properties",
+          "title": "Avoid positioning properties 要避開座標屬性",
           "depth": 2,
           "id": "avoid-positioning-properties"
         },
         {
-          "title": "Fixed dimensions",
+          "title": "Fixed dimensions 固定尺寸",
           "depth": 2,
           "id": "fixed-dimensions"
         },
         {
-          "title": "Define positioning in parents",
+          "title": "Define positioning in parents 在父節點定義位置",
           "depth": 2,
           "id": "define-positioning-in-parents"
         }
@@ -359,7 +359,7 @@
     },
     "css-structure.html": {
       "source": "docs/css-structure.md",
-      "title": "CSS Structure",
+      "title": "CSS 架構",
       "slug": "css-structure",
       "headings": [
         {
@@ -422,7 +422,7 @@
     },
     "summary.html": {
       "source": "docs/summary.md",
-      "title": "Summary",
+      "title": "總結",
       "slug": "summary"
     }
   },
