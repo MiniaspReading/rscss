@@ -1,4 +1,4 @@
-# Elements 元素
+# 元素(Elements)
 
 Elements are things inside your component. <br>
 元素就是在你的元件中的物件

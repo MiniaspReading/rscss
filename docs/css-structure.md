@@ -1,4 +1,4 @@
-# CSS structure CSS 架構
+# CSS 架構
 
 ## One component per file 一個元件一個檔案
 For each component, place them in their own file.

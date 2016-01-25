@@ -1,4 +1,4 @@
-# Nested components
+# 巢狀元件(Nested components)
 
 ![](images/component-nesting.png)
 
