@@ -65,12 +65,12 @@
             "slug": "variants",
             "headings": [
               {
-                "title": "Naming variants （變種的命名）",
+                "title": "Naming variants （變形的命名）",
                 "depth": 2,
                 "id": "naming-variants"
               },
               {
-                "title": "Element variants 元素變種",
+                "title": "Element variants 元素變形",
                 "depth": 2,
                 "id": "element-variants-yuan"
               },
@@ -88,14 +88,14 @@
             "slug": "nested-components",
             "headings": [
               {
-                "title": "Variants",
+                "title": "Variants 變形",
                 "depth": 2,
                 "id": "variants"
               },
               {
-                "title": "Simplifying nested components",
+                "title": "簡化巢狀式元件",
                 "depth": 2,
-                "id": "simplifying-nested-components"
+                "id": "yuan"
               }
             ]
           },
@@ -180,7 +180,7 @@
             "slug": "pitfalls",
             "headings": [
               {
-                "title": "Bleeding through nested components",
+                "title": "Bleeding through nested components 在嵌入的套件屬性外流",
                 "depth": 2,
                 "id": "bleeding-through-nested-components"
               }
@@ -199,7 +199,7 @@
             "slug": "other-resources",
             "headings": [
               {
-                "title": "Other solutions",
+                "title": "Other solutions 其他方案",
                 "depth": 2,
                 "id": "other-solutions",
                 "headings": [
@@ -211,7 +211,7 @@
                 ]
               },
               {
-                "title": "Terminologies",
+                "title": "Terminologies 術語",
                 "depth": 2,
                 "id": "terminologies"
               }
@@ -285,12 +285,12 @@
       "slug": "variants",
       "headings": [
         {
-          "title": "Naming variants （變種的命名）",
+          "title": "Naming variants （變形的命名）",
           "depth": 2,
           "id": "naming-variants"
         },
         {
-          "title": "Element variants 元素變種",
+          "title": "Element variants 元素變形",
           "depth": 2,
           "id": "element-variants-yuan"
         },
@@ -307,14 +307,14 @@
       "slug": "nested-components",
       "headings": [
         {
-          "title": "Variants",
+          "title": "Variants 變形",
           "depth": 2,
           "id": "variants"
         },
         {
-          "title": "Simplifying nested components",
+          "title": "簡化巢狀式元件",
           "depth": 2,
-          "id": "simplifying-nested-components"
+          "id": "yuan"
         }
       ]
     },
@@ -385,7 +385,7 @@
       "slug": "pitfalls",
       "headings": [
         {
-          "title": "Bleeding through nested components",
+          "title": "Bleeding through nested components 在嵌入的套件屬性外流",
           "depth": 2,
           "id": "bleeding-through-nested-components"
         }
@@ -402,7 +402,7 @@
       "slug": "other-resources",
       "headings": [
         {
-          "title": "Other solutions",
+          "title": "Other solutions 其他方案",
           "depth": 2,
           "id": "other-solutions",
           "headings": [
@@ -414,7 +414,7 @@
           ]
         },
         {
-          "title": "Terminologies",
+          "title": "Terminologies 術語",
           "depth": 2,
           "id": "terminologies"
         }
