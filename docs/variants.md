@@ -1,4 +1,4 @@
-# Variants 變種
+# Variants 變形
 
 Components may have variants. Elements may have variants, too.<br>
 元件可以有多樣的變化，元素當然也有，我們這邊稱為變種。
@@ -7,7 +7,7 @@ Components may have variants. Elements may have variants, too.<br>
 
 <br>
 
-## Naming variants （變種的命名）
+## Naming variants （變形的命名）
 Classnames for variants will be prefixed by a dash (`-`).<br>
 變化的名稱前須加上分號(-)作為前綴詞。
 
@@ -19,7 +19,7 @@ Classnames for variants will be prefixed by a dash (`-`).<br>
   }
   ```
 
-## Element variants 元素變種
+## Element variants 元素變形
 Elements may also have variants.<br>
 元素也會有變種。
 
@@ -45,5 +45,5 @@ Dashes are the preferred prefix for variants.<br>
 
 How do you deal with complex elements? Nest them.<br>
 遇到複雜的元素該如何處理呢? 將它們巢狀化吧！
-[Continue →](nested-components.md)
+[Continue 繼續 →](nested-components.md)
 <!-- {p:.pull-box} -->
