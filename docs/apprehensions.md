@@ -3,10 +3,10 @@
 Some people may have apprehensions to these conventions, such as: <br>
 或許有些人對於這些建議有一點疑慮，例如：	
 
-#### "But dashes suck" 我不喜歡分號
+#### "But dashes suck" 我不喜歡 dash (`-`)
 
 You're free to omit them and just use regular words, but keep the rest of the ideas in place (components, elements, variants). <br>
-你可以隨意地忽略分號，然後繼續使用常用的字詞，但還是要保持著原本的想法，元件(component)、元素(element)及變化(variant)。
+你可以隨意地忽略 dash (`-`)，然後繼續使用常用的字詞，但還是要保持著原本的想法，元件(component)、元素(element)及變化(variant)。
 
 #### "But I can't think of 2 words!" 我想不到用兩個字來命名！
 

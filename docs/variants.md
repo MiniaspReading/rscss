@@ -9,7 +9,7 @@ Components may have variants. Elements may have variants, too.<br>
 
 ## Naming variants （變形的命名）
 Classnames for variants will be prefixed by a dash (`-`).<br>
-變化的名稱前須加上分號(-)作為前綴詞。
+變化的名稱前須加上 dash (`-`) 作為前綴詞。
 
   ```scss
   .like-button {

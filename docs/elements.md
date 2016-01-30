@@ -28,7 +28,7 @@ Prefer to use the `>` child selector whenever possible. This prevents bleeding t
 
 ## On multiple words 在多個單字上
 For those that need two or more words, concatenate them without dashes or underscores. <br>
-對於那些需要兩個或更多的單字，將它們連接起來並不要加上破折號或底線。
+對於那些需要兩個或更多的單字，不用加 dash (`-`) 或底線將它們連接起來。
 
 ```scss
 .profile-box {
