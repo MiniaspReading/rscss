@@ -15,10 +15,10 @@
         ]
       },
       {
-        "title": "關於元件(Components)",
+        "title": "關於元件",
         "sections": [
           {
-            "title": "About components",
+            "title": "關於元件",
             "source": "docs/components.md",
             "url": "components.html",
             "slug": "components",
@@ -31,7 +31,7 @@
             ]
           },
           {
-            "title": "Elements",
+            "title": "元素",
             "source": "docs/elements.md",
             "url": "elements.html",
             "slug": "elements",
@@ -59,7 +59,7 @@
             ]
           },
           {
-            "title": "Variants",
+            "title": "變形",
             "source": "docs/variants.md",
             "url": "variants.html",
             "slug": "variants",
@@ -82,7 +82,7 @@
             ]
           },
           {
-            "title": "Nested components",
+            "title": "巢狀元件",
             "source": "docs/nested-components.md",
             "url": "nested-components.html",
             "slug": "nested-components",
@@ -100,7 +100,7 @@
             ]
           },
           {
-            "title": "Layouts",
+            "title": "版面佈局",
             "source": "docs/layouts.md",
             "url": "layouts.html",
             "slug": "layouts",
@@ -123,7 +123,7 @@
             ]
           },
           {
-            "title": "Helpers",
+            "title": "助手",
             "source": "docs/helpers.md",
             "url": "helpers.html",
             "slug": "helpers",
@@ -143,7 +143,7 @@
         ]
       },
       {
-        "title": "關於架構(Structure)",
+        "title": "關於架構",
         "sections": [
           {
             "title": "CSS 架構",
@@ -171,10 +171,10 @@
         ]
       },
       {
-        "title": "備註(Notes)",
+        "title": "備註",
         "sections": [
           {
-            "title": "Pitfalls",
+            "title": "陷阱注意",
             "source": "docs/pitfalls.md",
             "url": "pitfalls.html",
             "slug": "pitfalls",
@@ -187,13 +187,13 @@
             ]
           },
           {
-            "title": "Apprehensions",
+            "title": "相關疑問",
             "source": "docs/apprehensions.md",
             "url": "apprehensions.html",
             "slug": "apprehensions"
           },
           {
-            "title": "Other resources",
+            "title": "其他資源",
             "source": "docs/other-resources.md",
             "url": "other-resources.html",
             "slug": "other-resources",
@@ -242,7 +242,7 @@
     },
     "components.html": {
       "source": "docs/components.md",
-      "title": "About components",
+      "title": "關於元件",
       "slug": "components",
       "headings": [
         {
@@ -254,7 +254,7 @@
     },
     "elements.html": {
       "source": "docs/elements.md",
-      "title": "Elements",
+      "title": "元素",
       "slug": "elements",
       "headings": [
         {
@@ -281,7 +281,7 @@
     },
     "variants.html": {
       "source": "docs/variants.md",
-      "title": "Variants",
+      "title": "變形",
       "slug": "variants",
       "headings": [
         {
@@ -303,7 +303,7 @@
     },
     "nested-components.html": {
       "source": "docs/nested-components.md",
-      "title": "Nested components",
+      "title": "巢狀元件",
       "slug": "nested-components",
       "headings": [
         {
@@ -320,7 +320,7 @@
     },
     "layouts.html": {
       "source": "docs/layouts.md",
-      "title": "Layouts",
+      "title": "版面佈局",
       "slug": "layouts",
       "headings": [
         {
@@ -342,7 +342,7 @@
     },
     "helpers.html": {
       "source": "docs/helpers.md",
-      "title": "Helpers",
+      "title": "助手",
       "slug": "helpers",
       "headings": [
         {
@@ -381,7 +381,7 @@
     },
     "pitfalls.html": {
       "source": "docs/pitfalls.md",
-      "title": "Pitfalls",
+      "title": "陷阱注意",
       "slug": "pitfalls",
       "headings": [
         {
@@ -393,12 +393,12 @@
     },
     "apprehensions.html": {
       "source": "docs/apprehensions.md",
-      "title": "Apprehensions",
+      "title": "相關疑問",
       "slug": "apprehensions"
     },
     "other-resources.html": {
       "source": "docs/other-resources.md",
-      "title": "Other resources",
+      "title": "其他資源",
       "slug": "other-resources",
       "headings": [
         {
