@@ -9,7 +9,7 @@
 <!-- {h1:.massive-header.-with-tagline} -->
 
 > Styling CSS without losing your sanity <br>
-> 別讓 CSS 使你失去理智
+> 別讓 CSS 搞瘋你
 
 Reasonable System for CSS Stylesheet Structure.<br>
 為CSS樣式表建立有系統的架構<br>

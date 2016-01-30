@@ -1,3 +1,7 @@
+## [v1.3.1] - Jan  30, 2016 for translation
+
+Translated to Traditional Chinese.
+
 ## [v1.3.0] - Jun  3, 2015
 
 Reorganized the document into clearer sections. No content changes.

@@ -1,4 +1,4 @@
-# Pitfalls 注意陷阱
+# Pitfalls 陷阱注意
 
 ## Bleeding through nested components 在嵌入的套件屬性外流
 Be careful about nested components with elements sharing the same name as elements in its container. 關於嵌入的套件底下有共用元素命名的情況要小心。

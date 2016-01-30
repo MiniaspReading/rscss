@@ -1,4 +1,4 @@
-# Helpers 
+# Helper
 
 For general-purpose classes meant to override values, put them in a separate file and name them beginning with an underscore. They are typically things that are tagged with *!important*. Use them *very* sparingly. <br>
 對於一般用途的類別(class)通常都是去做覆蓋的動作，將它們放在另一個檔案中並且以底線作為開頭來命名。由於他們通常會在後面標記 *!important* ，因此使用時要 *非常* 謹慎。
