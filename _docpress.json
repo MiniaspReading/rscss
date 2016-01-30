@@ -18,7 +18,7 @@
         "title": "關於元件",
         "sections": [
           {
-            "title": "關於元件",
+            "title": "元件",
             "source": "docs/components.md",
             "url": "components.html",
             "slug": "components",
@@ -242,7 +242,7 @@
     },
     "components.html": {
       "source": "docs/components.md",
-      "title": "關於元件",
+      "title": "元件",
       "slug": "components",
       "headings": [
         {
