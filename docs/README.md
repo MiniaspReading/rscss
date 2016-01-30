@@ -2,7 +2,7 @@
 
 - [rscss](../README.md)
 - **關於元件**
-  - [關於元件](components.md)
+  - [元件](components.md)
   - [元素](elements.md)
   - [變形](variants.md)
   - [巢狀元件](nested-components.md)
