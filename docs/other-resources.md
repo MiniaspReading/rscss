@@ -7,7 +7,8 @@ Other solutions 其他解決方案
 ---------------
 
 ### BEM
-[BEM] is nice, but some may be irked at its unconventional syntax. RSCSS pretty much follows BEM conventions, only with a different syntax.
+[BEM] is nice, but some may be irked at its unconventional syntax. RSCSS pretty much follows BEM conventions, only with a different syntax. <br>
+[BEM]是個不錯的選擇，但有些人可能會對於他的非常規的語法覺得很煩。 RSCSS 幾乎照著 BEM 的規則，只有語法上的不同。
 
 ```html
 <!-- BEM -->
