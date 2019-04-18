@@ -52,7 +52,7 @@ Authored and maintained by Rico Sta. Cruz with help from contributors ([list][co
 
 ----
 原作：[@rstacruz](https://github.com/rstacruz)｜翻譯：[@jeffwu85182](https://github.com/jeffwu85182)
-[多奇數位創意有限公司](http://www.miniasp.com) <br>
+<br>
 有任何建議歡迎提出，感謝! <br>
 
 <!-- {blockquote: style='display:none'} -->
